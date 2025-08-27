@@ -47,7 +47,7 @@ CIYA now integrates with Ollama, a local LLM runtime that allows CIYA to generat
 🔧 Install Ollama Download and install Ollama from https://ollama.com
 
 
-##📦 Pull the Required Model
+## 📦 Pull the Required Model
 
 bash
 ollama pull phi3:mini
