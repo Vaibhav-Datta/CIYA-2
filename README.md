@@ -73,5 +73,4 @@ bash
 pip install SpeechRecognition edge-tts playsound wikipedia pyaudio
 
 ## 🚫 License & Usage 
-
 CIYA is not open source and is not permitted for public use, redistribution, or modification. This project is a private build and intended solely for personal experimentation and development by the creator.
