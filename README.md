@@ -64,8 +64,12 @@ Developed by Mr. Vaibhav Datta, CIYA is a passion project aimed at making voice 
 ## 🗂️ File Structure 
 
 ciya.py – Main assistant script 
+
 memory.txt – Stores remembered data (auto-created) 
+
 README.md – Project documentation
+
+widget.py - A small widget or you can say activate CIYA from outside the code editor.
 
 ## 🚀 Getting Started Prerequisites Install the required Python packages:
 
