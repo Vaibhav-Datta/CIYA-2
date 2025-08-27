@@ -69,7 +69,7 @@ memory.txt – Stores remembered data (auto-created)
 
 README.md – Project documentation
 
-widget.py - A small widget or you can say activate CIYA from outside the code editor.
+CT_widget.py - A small widget or you can say activate CIYA from outside the code editor.
 
 ## 🚀 Getting Started Prerequisites Install the required Python packages:
 
